@@ -1,4 +1,6 @@
-Hi I'm Rob, owner @studio1902. I design and code websites for clients using the following stack:
+## Hello, I'm Rob
+
+I'm the owner @studio1902. I design and code websites for clients using the following stack:
 
 * Sketch
 * Visual Studio Code
